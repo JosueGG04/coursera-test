@@ -1,0 +1,40 @@
+/* Module 3 */
+.navbar {
+    background: rgb(199, 195, 195);
+}
+
+html,body
+{
+    overflow-x: hidden; 
+}
+
+.bg-grayer {
+    background-color: rgb(204, 199, 199);
+}
+
+
+h1 {
+    text-transform: capitalize;
+    font-size: 200%;
+    padding: 10px;
+}
+
+/* Module 2 */
+* {
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-transform: capitalize;
+    font-size: 175%;
+}
+
+.content > div {
+    background: rgb(183, 180, 180);
+}
+
+p {
+    margin-right: 2%;
+    margin-left: 2%;
+}
